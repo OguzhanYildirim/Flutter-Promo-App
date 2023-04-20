@@ -1,6 +1,5 @@
-# promo_app
-
-A new Flutter project.
+# Promo-App
+A simple Flutter app to show and publish promo. 
 
 ## Getting Started
 
